@@ -22,6 +22,10 @@ If you install the App from the Apple App Store or Google Play, those platforms 
 
 We may update this policy when advertising, analytics, or purchases change. Continued use of the App after an update means you accept the revised policy. The “Last updated” date above shows when this version took effect.
 
+## Data deletion
+
+Wild Trios does not create a user account or keep personal profile data on our servers. To remove local App data, uninstall the App. For advertising identifiers and Google ad data, use your device / Google advertising settings. For help with a deletion request, see [Data deletion](data-deletion.md) or contact the developer using the support channel listed on the App’s store listing.
+
 If you have questions about this policy, contact the developer using the support channel listed on the App’s store listing.
 
 [Terms of Service](terms.md)
